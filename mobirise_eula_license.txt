@@ -1,0 +1,34 @@
+Mobirise
+End User License Agreement
+
+
+   1. Mobirise.com grants you a non-exclusive license to use Mobirise
+      for any legal purpose.
+      
+   2. Mobirise is free for both personal and commercial use.
+      Back links to https://mobirise.com/ are not strictly required, but    
+      any form of spreading the word is always appreciated.
+
+   3. You MAY NOT:
+      3.1 sublicense, lease, rent, sell this software to other person or 
+          business;
+      3.2 remove any product identification, copyright notices, or other
+          notices or proprietary restrictions from this software;
+      3.3 modify, decompile, duplicate, "unlock", reverse-engineer or attempt 
+          to discover the source code or structure, sequence or organization 
+	  of this software;
+
+   4. MOBIRISE IS DISTRIBUTED "AS IS".
+      NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.
+      YOU USE MOBIRISE AT YOUR OWN RISK.
+      THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS,
+      DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF
+      LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+	  
+   5. Installing and using Mobirise signifies acceptance of these terms 
+      and conditions of the license.
+	  
+
+   Copyright 2017 Mobirise.com, All rights reserved.
+   Website: https://mobirise.com/
+   Email: support@mobirise.com
