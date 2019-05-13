@@ -20,6 +20,7 @@ YGGDRASIL STUDIO is an **independent game creators** based on Midgard. We create
     - [GeneratePress](https://generatepress.com/)
     - [WPBakery Page Builder](https://wpbakery.com/)
     - [Responsive Tabs](https://wpdarko.com/items/responsive-tabs-pro/)
+    - [Google XML Sitemaps](https://www.arnebrachhold.de/projects/wordpress-plugins/google-xml-sitemaps-generator/)
     - [Simply Static](https://wordpress.org/plugins/simply-static/)
 - [presskit()](http://dopresskit.com/)
 - [Formspree](https://formspree.io/)
