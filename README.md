@@ -6,6 +6,7 @@ YGGDRASIL STUDIO is an **independent game creators** based on Midgard. We create
 ## Development Environment
 - 34 years old human
 - 6 years old laptop
+- 5 years old iPhone
 - [Windows 10](https://www.microsoft.com/windows/get-windows-10)
 - [muCommander](http://www.mucommander.com/)
 - [Notepad++](http://notepad-plus-plus.org)
