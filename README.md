@@ -4,15 +4,12 @@
 YGGDRASIL STUDIO is an **independent game creators** based on Midgard. We create works with **Lee Yunseok**, the core creator based on Korea, Republic of. This repository is our official website build. Website made with ❤ and development environment below.
 
 ## Development Environment
-- 34 years old human
-- 6 years old laptop
-- [Windows 10](https://www.microsoft.com/windows/get-windows-10)
-- [muCommander](http://www.mucommander.com/)
-- [Notepad++](http://notepad-plus-plus.org)
+- 35 years old human
+- [Raspberry Pi 4 B 8GB](https://www.raspberrypi.org/)
+  - [Rasberry Pi OS](https://www.raspbian.org/)
+- [Geany](https://www.geany.org/)
 - [GIMP 2](https://www.gimp.org/)
-- [XAMPP](https://www.apachefriends.org)
 - [Min](https://minbrowser.github.io)
-- [Sublime Merge](https://www.sublimemerge.com/)
 - [WordPress](https://www.wordpress.org)
     - [Polylang](https://polylang.pro/)
     - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/)
